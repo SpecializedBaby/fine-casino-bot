@@ -3,10 +3,10 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
-name = "telegram-casino-bot"
-version = "0.1.3"
-description = "Casino Bot"
-authors = ["Th3Kanashii <Th3Kanashii@gmail.com>"]
+name = "fine-casino-bot"
+version = "0.1.4"
+description = "Fine Casino Bot"
+authors = ["SpecializedBbay <specialized8393@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]

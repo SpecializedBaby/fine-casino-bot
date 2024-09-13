@@ -1,9 +1,9 @@
 # 🎰️ Virtual Casino in Telegram 📱
 
-[![Telegram Bot](https://img.shields.io/badge/Telegram-@BaacharuKajino-blue)](https://t.me/BaacharuKajino_bot)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-@Speclalized)](https://t.me/fine_casino_bot)
 
 Virtual Casino is a transparent casino based on animated Telegram emoji.
-A bot was created for the demonstration [@BaacharuKajino](https://t.me/BaacharuKajino_bot)
+A bot was created for the demonstration [@fine_casino_bot](https://t.me/fine_casino_bot)
 
 ## System dependencies
 
@@ -18,7 +18,7 @@ A bot was created for the demonstration [@BaacharuKajino](https://t.me/BaacharuK
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Th3Kanashii/telegram-virtual-casino-bot.git
+    git clone https://github.com/SpecializedBaby/fine-casino-bot.git
     ```
 
 2. **Rename `.env.dist` to `.env` and configure it:**
